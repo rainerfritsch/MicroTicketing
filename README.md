@@ -1,7 +1,7 @@
 # MicroTicketing
-A Ticket Management System with a very small feature set.
+Ein Ticketmanagement Sytem nur mit den zentralen Funktionen
 
-* submit a ticket
-* comment ticket
-* watch current processing status
+* Ticket erstellen
+* Kommentare zu Tickets erfassen
+* den aktuellen Bearbeitungsstand in Erfahrung bringen
 
